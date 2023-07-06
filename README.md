@@ -5,7 +5,14 @@
 [![Flake8](https://github.com/AlexeyPlz/Test_NetVision/actions/workflows/codestyle.yml/badge.svg)](https://github.com/AlexeyPlz/Test_NetVision/actions/workflows/codestyle.yml)
 ## Стек
 - Python 3.10
-- ToDo
+- FastAPI 0.98
+- FastAPI REST 0.4.5
+- SQLAlchemy 2.0.17
+- PostgreSQL 13.2
+- Asyncpg 0.27
+- Alembic 1.11.1
+- Uvicorn 0.22
+- Aiohttp 3.8.4
 ## Задание
 Используя Python3, FastAPI, SQLAlchemy написать:
 - REST API сервер
