@@ -1,0 +1,22 @@
+# Файлы исключить из Dockerfile
+__pycache__
+.github
+.mypy_cache
+.pytest_cache
+.venv
+.vscode
+.dockerignore
+.env.example
+.gitignore
+.pre-commit-config.yaml
+client
+docker-compose.yaml
+Dockerfile
+LICENSE
+nginx.conf
+README.md
+setup.cfg
+# Файлы включить в Dockerfile
+!server
+!alembic.ini
+!server_req.txt

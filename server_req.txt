@@ -4,4 +4,3 @@ sqlalchemy==2.0.17
 asyncpg==0.27.0
 uvicorn[standard]==0.22
 alembic==1.11.1
-aiohttp==3.8.4
